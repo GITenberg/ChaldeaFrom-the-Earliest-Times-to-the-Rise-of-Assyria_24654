@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '26649'
     url: http://www.gutenberg.org/2009/agents/26649
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24654#ChaldeaFrom-the-Earliest-Times-to-the-Rise-of-Assyria
 gutenberg_bookshelf: Archaeology
 gutenberg_issued: '2008-02-20'
 gutenberg_type: Text
